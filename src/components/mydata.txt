@@ -1,0 +1,5 @@
+// Incorrect
+GET /api/getUsers
+
+// Correct
+GET /api/getUser?id=123
